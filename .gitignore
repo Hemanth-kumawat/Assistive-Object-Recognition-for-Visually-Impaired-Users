@@ -1,5 +1,7 @@
 .venv/
 venv/
+env/
+ENV/
 __pycache__/
 *.py[cod]
 .DS_Store
@@ -7,3 +9,11 @@ __pycache__/
 .env
 .env.*
 !.env.example
+.streamlit/secrets.toml
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+.ruff_cache/
+.mypy_cache/
