@@ -1,4 +1,5 @@
-# 👁️‍🗨️ AI-Powered Assistive Tool for Visually Impaired
+# Assistive-Object-Recognition-for-Visually-Impaired-Users
+
 
 ## 📌 About the Project
 This AI-powered tool helps visually impaired individuals interact with their environment using real-time object detection, text reading, and navigation assistance. The system is voice-activated and provides audio feedback through a simple Streamlit interface.
