@@ -67,10 +67,10 @@ This AI-powered tool helps visually impaired individuals interact with their env
 ---
 
 ## 🚀 How It Works
-1. **Initialization:** System listens for wake word "Alexa".
+1. **Initialization:** System listens for wake word "ultron".
 2. **Voice Command Capture:** Speech converted to text via SpeechRecognition.
 3. **Intent Detection:**
-   - **Describe:** YOLOv8 detects objects and provides audio feedback.
+   - **Describe:** vor detects objects and provides audio feedback.
    - **Read:** EasyOCR extracts text and reads aloud.
    - **Navigate:** ORS API gives real-time directions.
 4. **Audio Output:** System delivers immediate voice feedback for all commands.
@@ -79,7 +79,7 @@ This AI-powered tool helps visually impaired individuals interact with their env
 
 ## ⚠️ Note
 This repository contains a **demo version**. Some modules (AI models, API keys) are not included to protect proprietary logic.  
-For access to the full source code, contact: **varshab2k23@gmail.com**
+For access to the full source code, contact: **hemanthgjbiet@gmail.com**
 
 ---
 
