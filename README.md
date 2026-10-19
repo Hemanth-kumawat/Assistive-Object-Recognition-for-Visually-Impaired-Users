@@ -80,7 +80,7 @@ This AI-powered tool helps visually impaired individuals interact with their env
 
 ## ⚠️ Note
 This repository contains a **demo version**. Some modules (AI models, API keys) are not included to protect proprietary logic.  
-For access to the full source code, contact: **hemanthgjbiet@gmail.com**
+For access to the full source code, contact: **hemanthjbiet@gmail.com**
 
 ---
 
